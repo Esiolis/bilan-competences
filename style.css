@@ -1,0 +1,18 @@
+div.liste
+li {
+    color :#E0144C;
+    font-weight: bold;
+}
+
+h2{
+    color : #FF5F9E;
+}
+
+h1{
+    text-align: center;
+    color: #E90064;
+}
+
+body{
+    background-color: #FDF4F5 ;
+}
